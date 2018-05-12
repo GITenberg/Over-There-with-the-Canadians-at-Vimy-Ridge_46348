@@ -1,0 +1,33 @@
+_repo: Over-There-with-the-Canadians-at-Vimy-Ridge_46348
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46348-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Ralphson, G. Harvey (George Harvey)
+    aliases:
+    - Ralphson, George H.
+    - Ralphson, George Harvey
+    birthdate: 1879
+    deathdate: 1940
+    gutenberg_agent_id: '849'
+    url: http://www.gutenberg.org/2009/agents/849
+    wikipedia: http://en.wikipedia.org/wiki/George_Harvey_Ralphson
+description: ''
+gutenberg_issued: '2014-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46348'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada. Canadian Army. Canadian Expeditionary Force -- Juvenile fiction'
+- !lcsh 'Vimy Ridge, Battle of, France, 1917 -- Juvenile fiction'
+- !lcsh 'Spy stories'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- France -- Juvenile fiction'
+- !lcc 'PZ'
+title: Over There with the Canadians at Vimy Ridge
+url: http://www.gutenberg.org/ebooks/46348
